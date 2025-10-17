@@ -1,0 +1,10 @@
+﻿node_modules/
+.next/
+dist/
+.vercel/
+.turbo/
+*.log
+.DS_Store
+
+# Monorepo / app
+apps/assistant-rag/.env.local
