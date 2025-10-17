@@ -27,8 +27,7 @@ apps/assistant-rag
 ├─ src/server/ingest/utils.ts # Limpieza DOM + Turndown + chunkMarkdown
 └─ src/app/page.tsx # UI básica (Home)
 
-yaml
-Copiar código
+
 
 ---
 
@@ -56,8 +55,6 @@ RAG_TOP_K=8
 RAG_MIN_SIM=0.58
 ALLOWED_DOMAINS=localhost
 
-yaml
-Copiar código
 
 ---
 
